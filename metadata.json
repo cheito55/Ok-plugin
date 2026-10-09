@@ -1,0 +1,6 @@
+{
+  "name": "GrayJay OK.ru Plugin Studio & Corrector",
+  "description": "Herramienta de depuración, corrección de errores, simulador y exportador de plugin para GrayJay (OK.ru Source v43)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "62af0e2f-bfd9-489f-afe1-f66583d2f7d0",
+  "name": "OK.ru",
+  "description": "Fuente de videos, series y canales de OK.ru con Cast/Chromecast y orden de capítulos.",
+  "author": "GrayJay Community",
+  "authorUrl": "https://ok.ru",
+  "sourceUrl": "https://ok.ru",
+  "scriptUrl": "Script.js",
+  "iconUrl": "https://ok.ru/res/ico/favicon.ico",
+  "version": 43,
+  "minVersion": 1,
+  "allowUrls": [
+    "https://ok.ru/*",
+    "https://*.ok.ru/*",
+    "https://*.okcdn.ru/*",
+    "https://*.mycdn.me/*",
+    "https://*.vk.me/*",
+    "https://*.userapi.com/*"
+  ],
+  "allowAllInternet": false,
+  "packages": [],
+  "settings": []
+}
